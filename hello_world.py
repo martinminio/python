@@ -1,5 +1,6 @@
 message="hello python world!"
-print(message)
+print(mesage)
 
-message="Hello Python Crash Course World!"
-print(message)
+# message="Hello Python Crash Course World!"
+# print(message)
+
