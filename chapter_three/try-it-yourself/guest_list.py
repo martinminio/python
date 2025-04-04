@@ -54,4 +54,6 @@ del guests[0]
 
 print(guests)
 
+print(f"I'm inviting {len(guests)} to my dinner")
+
 
