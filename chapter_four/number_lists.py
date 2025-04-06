@@ -26,3 +26,13 @@ numbers = list(range(10))
 print(min(numbers))
 print(max(numbers))
 print(sum(numbers))
+
+# try it yourself section exercises
+print(f"the first three items are: \n")
+print(numbers[:3])
+
+print(f"three items from the middle are: \n")
+print(numbers[3:6])
+
+print(f"the last three items are: \n")
+print(numbers[-3:])
